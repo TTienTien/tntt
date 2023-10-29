@@ -1,0 +1,342 @@
+﻿/*Màn hình 1 
+*/
+
+#start {
+    background-image: url("images/menu1.png");
+    background-repeat: no-repeat;
+    border: 0.5px solid black;
+    margin: 30px auto;
+    width: 1016px;
+    height: 690px;
+    display: flex;
+}
+
+#btn-start {
+    background-color: yellow;
+    border-radius: 10px;
+    color: black;
+    padding: 20px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 55px;
+    font-family: algerian;
+    font-weight: bold;
+    margin-top: 500px;
+    margin-left: 420px;
+}
+
+#btn-start:hover {
+    opacity: 0.9;
+    margin-top: 480px;
+    background-color: red;
+}
+
+
+/*Hết Màn hình 1 
+*/
+
+
+/*Màn hình 2 
+*/
+
+#menu_3 {
+    background-image: url("images/menu_chon.png");
+    border: 0.5px solid black;
+    margin: 50px auto;
+    width: 1016px;
+    height: 690px;
+    display: flex;
+}
+
+.btn-menu_3 {
+    width: 300px;
+    height: 360px;
+    margin: 250px auto;
+    display: block;
+}
+
+.btn-player_3 {
+    width: 300px;
+    height: 120px;
+    display: flex;
+}
+
+.btn-ai_3 {
+    width: 300px;
+    height: 120px;
+    display: flex;
+}
+
+.btn-back_3 {
+    width: 300px;
+    height: 120px;
+    display: flex;
+}
+
+.btn-pos_3 {
+    margin: auto;
+}
+
+#btn-player_3 {
+    background-color: yellow;
+    border-radius: 3px;
+    color: black;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: algerian;
+    font-weight: bold;
+}
+
+#btn-player_3:hover {
+    opacity: 0.8;
+}
+
+#btn-ai_3 {
+    background-color: yellow;
+    border-radius: 3px;
+    color: black;
+    padding: 15px 85px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: algerian;
+    font-weight: bold;
+}
+
+#btn-ai_3:hover {
+    opacity: 0.8;
+}
+
+#btn-back_3 {
+    background-color: yellow;
+    border-radius: 3px;
+    color: black;
+    padding: 15px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: algerian;
+    font-weight: bold;
+}
+
+#btn-back_3:hover {
+    opacity: 0.8;
+}
+
+
+/*Hết Màn hình 2 
+*/
+
+
+/*Màn hình 3 
+*/
+
+#menu {
+    border: 0.5px solid black;
+    margin: 50px auto;
+    width: 1050px;
+    height: 710px;
+    display: flex;
+}
+
+#left-menu {
+    background-image: url("images/menu2.png");
+    /* background-color: black; */
+    background-repeat: no-repeat;
+    border: 0.5px solid black;
+    display: flex;
+}
+
+#right-menu {
+    background-color: white;
+    border: 0.5px solid black;
+    display: flex;
+}
+
+.btn-menu {
+    width: 200px;
+    height: 270px;
+    margin: auto;
+    display: block;
+}
+
+.btn-new {
+    width: 200px;
+    height: 90px;
+    display: flex;
+}
+
+.btn-auto {
+    width: 200px;
+    height: 90px;
+    display: flex;
+}
+
+.btn-back {
+    width: 200px;
+    height: 90px;
+    display: flex;
+}
+
+.btn-pos {
+    margin: auto;
+}
+
+#btn-new {
+    background-color: yellow;
+    border-radius: 3px;
+    color: black;
+    padding: 5px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: algerian;
+    font-weight: bold;
+}
+
+#btn-new:hover {
+    opacity: 0.8;
+}
+
+#btn-auto {
+    background-color: yellow;
+    border-radius: 3px;
+    color: black;
+    padding: 5px 73px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: algerian;
+    font-weight: bold;
+}
+
+#btn-auto:hover {
+    opacity: 0.8;
+}
+
+#btn-back {
+    background-color: yellow;
+    border-radius: 3px;
+    color: black;
+    padding: 5px 73px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: algerian;
+    font-weight: bold;
+}
+
+#btn-back:hover {
+    opacity: 0.8;
+}
+
+#grid {
+    width: 660px;
+    height: 660px;
+    margin: auto;
+}
+
+
+/*Hết Màn hình 3 
+*/
+
+
+/*Màn hình 4
+*/
+
+#btn-back_2:hover {
+    opacity: 0.8;
+}
+
+#grid_2 {
+    width: 660px;
+    height: 660px;
+    margin: auto;
+}
+
+#menu_2 {
+    border: 0.5px solid black;
+    margin: 50px auto;
+    width: 1050px;
+    height: 710px;
+    display: flex;
+}
+
+#left-menu_2 {
+    background-image: url("images/menu2.png");
+    background-repeat: no-repeat;
+    border: 0.5px solid black;
+    display: flex;
+}
+
+#right-menu_2 {
+    background-color: white;
+    border: 0.5px solid black;
+    display: flex;
+}
+
+.btn-menu_2 {
+    width: 200px;
+    height: 270px;
+    margin: auto;
+    display: block;
+}
+
+.btn-new_2 {
+    width: 200px;
+    height: 90px;
+    display: flex;
+}
+
+.btn-back_2 {
+    width: 200px;
+    height: 90px;
+    display: flex;
+}
+
+.btn-pos_2 {
+    margin: auto;
+}
+
+#btn-new_2 {
+    background-color: yellow;
+    border-radius: 3px;
+    color: black;
+    padding: 5px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: algerian;
+    font-weight: bold;
+}
+
+#btn-new_2:hover {
+    opacity: 0.8;
+}
+
+#btn-back_2 {
+    background-color: yellow;
+    border-radius: 3px;
+    color: black;
+    padding: 5px 73px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-family: algerian;
+    font-weight: bold;
+}
+
+
+/*Hết Màn hình 4 
+*/
